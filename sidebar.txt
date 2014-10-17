@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpr:home|Door43 (tpr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpr|d43-tpr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpr/archive/master.zip|d43-tpr.zip]]
+
+**Recent Changes**
+{{changes>ns = tpr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpr|Ethnologue data]]
+
